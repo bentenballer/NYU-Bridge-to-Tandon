@@ -1,0 +1,4 @@
+﻿  cfc395_hw8_q4.cpp
+C:\Users\bentenballer\Desktop\Resumes\Bridge to NYU Tandon\HW\HW Code\HW8\cfc395_hw8_q4\cfc395_hw8_q4\cfc395_hw8_q4.cpp(55,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bentenballer\Desktop\Resumes\Bridge to NYU Tandon\HW\HW Code\HW8\cfc395_hw8_q4\cfc395_hw8_q4\cfc395_hw8_q4.cpp(77,30): warning C4018:  '<': signed/unsigned mismatch
+  cfc395_hw8_q4.vcxproj -> C:\Users\bentenballer\Desktop\Resumes\Bridge to NYU Tandon\HW\HW Code\HW8\cfc395_hw8_q4\Debug\cfc395_hw8_q4.exe
