@@ -1,0 +1,5 @@
+﻿  cfc395_hw9_q1.cpp
+C:\Users\bentenballer\Desktop\Resumes\Bridge to NYU Tandon\HW\HW Code\HW9\cfc395_hw9_q1\cfc395_hw9_q1\cfc395_hw9_q1.cpp(23,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\bentenballer\Desktop\Resumes\Bridge to NYU Tandon\HW\HW Code\HW9\cfc395_hw9_q1\cfc395_hw9_q1\cfc395_hw9_q1.cpp(36,9): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\bentenballer\Desktop\Resumes\Bridge to NYU Tandon\HW\HW Code\HW9\cfc395_hw9_q1\cfc395_hw9_q1\cfc395_hw9_q1.cpp(43,31): warning C4018:  '<': signed/unsigned mismatch
+  cfc395_hw9_q1.vcxproj -> C:\Users\bentenballer\Desktop\Resumes\Bridge to NYU Tandon\HW\HW Code\HW9\cfc395_hw9_q1\Debug\cfc395_hw9_q1.exe
